@@ -1,7 +1,7 @@
 # stetten-huawei
-Doku ESPHome - Huawei
+Doku ESPHome - Huawei</br>
 
 
-1x Huawei R4850
-1x ESP32 devkit
-1x sn65hvd230
+1* Huawei R4850</br>
+1* ESP32 devkit</br>
+1* sn65hvd230</br>
